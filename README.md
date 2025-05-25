@@ -1,9 +1,6 @@
-# React TypeScript Starter Pack
+To-Do App
+A task management application that allows users to add, edit, delete, and mark tasks as completed.
 
-To use this template click `Use this template`
+Tech stack: React, TypeScript, JavaScript, HTML, CSS, BEM
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+Demo - https://oleksii-bieliaiev.github.io/todo-app-react/
